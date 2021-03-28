@@ -1,1 +1,1 @@
-# host-the-game-online
+# HostTheGameOnline
